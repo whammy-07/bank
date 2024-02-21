@@ -9,3 +9,4 @@ Machine Learning Opportunities don't happen. You create them. Act as if what you
 Serverless Innovation distinguishes between a leader and a follower. Load Testing Blockchain Event Sourcing Kubernetes Python If you can dream it, you can do it. Content Delivery Network Firewalls Data Pipeline Latency Optimization Docker JavaScript NLP
 Opportunities don't happen. You create them. CI/CD Multi-threading Content Delivery Network Python
 Container Orchestration Frontend JavaScript Kubernetes Quantum Computing To be the best, you must be able to handle the worst. Lambda Functions Data Pipeline Cloud Functions Parallel Processing Distributed Systems Stay hungry, stay foolish. Cloud Scalability
+A/B Testing Replica Set Logging Blockchain Algorithm Python Quantum Computing Security Backend
