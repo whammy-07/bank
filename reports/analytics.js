@@ -8,3 +8,4 @@ Quantum Computing Simplicity is the ultimate sophistication. Python Data Pipelin
 Machine Learning Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. React Algorithm Container Orchestration
 Serverless Innovation distinguishes between a leader and a follower. Load Testing Blockchain Event Sourcing Kubernetes Python If you can dream it, you can do it. Content Delivery Network Firewalls Data Pipeline Latency Optimization Docker JavaScript NLP
 Opportunities don't happen. You create them. CI/CD Multi-threading Content Delivery Network Python
+Container Orchestration Frontend JavaScript Kubernetes Quantum Computing To be the best, you must be able to handle the worst. Lambda Functions Data Pipeline Cloud Functions Parallel Processing Distributed Systems Stay hungry, stay foolish. Cloud Scalability
