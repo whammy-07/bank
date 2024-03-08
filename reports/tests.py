@@ -8,3 +8,4 @@ Automation Agile Parallel Processing Artificial Intelligence Kafka Great things 
 JWT Parallel Processing Stay hungry, stay foolish. DNS Routing Event Sourcing NLP IoT Containerization Scalability Data Pipeline Don't be afraid to give up the good to go for the great. Great things never come from comfort zones.
 Version Control Latency Optimization Cache Invalidation Logging Lambda Functions Difficult roads often lead to beautiful destinations. API
 Agile Latency Optimization Kafka Parallel Processing Edge Computing Microservices UX Optimization Database Python Framework Message Queue Performance
+Sharding Docker Security Server Response CI/CD Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Blockchain Microservices Virtual Machines Load Balancing Frontend GraphQL Latency Optimization

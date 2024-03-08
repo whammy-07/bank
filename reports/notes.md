@@ -11,3 +11,4 @@ Great things never come from comfort zones. Cloud Functions Big Data CI/CD Pull 
 Lambda Functions Cache Invalidation NLP Predictive Analytics Algorithm Security GraphQL React
 Automation Scalability JavaScript Virtual Machines Deployment
 Testing Database I find that the harder I work, the more luck I seem to have. Multi-threading Neural Networks Agile Container Orchestration Lambda Functions Data Pipeline Sharding The only way to do great work is to love what you do. Firewalls React Event Sourcing
+Sharding I find that the harder I work, the more luck I seem to have. Monitoring Quantum Computing IoT Agile Cloud Functions Virtual Machines Firewalls Don't be afraid to give up the good to go for the great.
