@@ -8,3 +8,4 @@ Serverless Sharding Scalability React NLP Latency Optimization If you can dream 
 Virtual Machines Multi-threading Stay hungry, stay foolish. API Gateway Load Balancing Act as if what you do makes a difference. It does. Security
 Quantum Computing Pull Request Innovation distinguishes between a leader and a follower. Optimization Cloud Functions Multi-threading Load Testing Python Testing Deployment IoT Success doesn’t just find you. You have to go out and get it.
 Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Load Balancing Edge Computing Great things never come from comfort zones. Event-driven Architecture Serverless Event Sourcing Version Control Optimization
+Load Testing Security Firewalls IoT Logging
