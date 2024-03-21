@@ -13,3 +13,4 @@ Quantum Computing Big Data Machine Learning Multi-threading Latency Optimization
 JavaScript I find that the harder I work, the more luck I seem to have. Pull Request Do what you love and the money will follow. Optimization Latency Optimization DNS Routing Stay hungry, stay foolish.
 Content Delivery Network Load Testing Optimization Work hard in silence, let your success be your noise. Cloud Functions Microservices Logging
 Database Multi-threading Cloud Functions Success doesn’t just find you. You have to go out and get it. Firewalls Event Sourcing If you can dream it, you can do it. Testing Load Testing Data Pipeline Performance Simplicity is the ultimate sophistication. Message Queue
+Work hard in silence, let your success be your noise. Kafka Content Delivery Network Latency Optimization Zero Downtime Deployment Do what you love and the money will follow. NLP Testing Cloud Big Data The only way to do great work is to love what you do. Data Science
