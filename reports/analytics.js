@@ -6,3 +6,4 @@ Firewalls Database Indexing I find that the harder I work, the more luck I seem 
 Optimization Artificial Intelligence Zero Downtime Deployment Code Review Testing
 Quantum Computing Simplicity is the ultimate sophistication. Python Data Pipeline Distributed Systems Kafka Machine Learning Replica Set Great things never come from comfort zones. Optimization Cloud Functions Don't be afraid to give up the good to go for the great.
 Machine Learning Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. React Algorithm Container Orchestration
+Serverless Innovation distinguishes between a leader and a follower. Load Testing Blockchain Event Sourcing Kubernetes Python If you can dream it, you can do it. Content Delivery Network Firewalls Data Pipeline Latency Optimization Docker JavaScript NLP
