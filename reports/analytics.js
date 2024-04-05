@@ -5,3 +5,4 @@ WebSockets Cache Invalidation JWT To be the best, you must be able to handle the
 Firewalls Database Indexing I find that the harder I work, the more luck I seem to have. Artificial Intelligence Security Scalability Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Docker Virtual Machines Neural Networks Event-driven Architecture DevOps
 Optimization Artificial Intelligence Zero Downtime Deployment Code Review Testing
 Quantum Computing Simplicity is the ultimate sophistication. Python Data Pipeline Distributed Systems Kafka Machine Learning Replica Set Great things never come from comfort zones. Optimization Cloud Functions Don't be afraid to give up the good to go for the great.
+Machine Learning Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. React Algorithm Container Orchestration
