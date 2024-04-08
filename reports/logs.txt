@@ -12,3 +12,4 @@ Optimization Success usually comes to those who are too busy to be looking for i
 Monitoring Neural Networks Big Data Blockchain Message Queue React Distributed Systems GraphQL
 Cloud If you can dream it, you can do it. Data Science Security The only way to do great work is to love what you do. Message Queue Framework
 Data Pipeline Load Balancing Distributed Systems Framework Load Testing Latency Optimization Optimization Success is not in what you have, but who you are. Agile NLP IoT API Gateway
+JavaScript Success is not in what you have, but who you are. UX Optimization Monitoring OAuth Content Delivery Network Serverless Event-driven Architecture Load Balancing API Gateway Multi-threading Neural Networks Cloud Functions Logging Server Response

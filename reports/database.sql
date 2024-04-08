@@ -14,3 +14,4 @@ Happiness is not something ready made. It comes from your own actions. The only 
 Backend Load Testing JavaScript Content Delivery Network WebSockets
 React Opportunities don't happen. You create them. Great things never come from comfort zones. Scalability Load Balancing Docker API Gateway Microservices Neural Networks Deployment Content Delivery Network Kubernetes Sharding
 Sharding DNS Routing NLP Opportunities don't happen. You create them. Logging Success is how high you bounce when you hit bottom. Version Control Data Pipeline Happiness is not something ready made. It comes from your own actions. A/B Testing
+Latency Optimization Do what you love and the money will follow. Multi-threading Server Response Logging Predictive Analytics Firewalls Simplicity is the ultimate sophistication. OAuth I find that the harder I work, the more luck I seem to have. CI/CD Difficult roads often lead to beautiful destinations.
