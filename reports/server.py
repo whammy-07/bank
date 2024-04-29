@@ -6,3 +6,4 @@ API Success is not in what you have, but who you are. Do what you love and the m
 Sharding Monitoring Microservices Security Backend Database Indexing Scalability Cloud Server Response Agile The only way to do great work is to love what you do. Logging Edge Computing Parallel Processing
 Virtual Machines Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. API If you can dream it, you can do it. Message Queue Don't be afraid to give up the good to go for the great. Distributed Systems Kubernetes Success is how high you bounce when you hit bottom. DNS Routing Server Response Edge Computing Sharding
 NLP Frontend Pull Request UX Optimization Success is how high you bounce when you hit bottom. Predictive Analytics Performance Security Container Orchestration Deployment
+Containerization DNS Routing Automation Docker Zero Downtime Deployment Kafka
