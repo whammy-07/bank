@@ -6,3 +6,4 @@ Monitoring Virtual Machines Success is not in what you have, but who you are. Bi
 If you can dream it, you can do it. Security Pull Request Load Balancing OAuth Machine Learning Parallel Processing RabbitMQ Content Delivery Network The only way to do great work is to love what you do. Deployment Containerization Success is how high you bounce when you hit bottom.
 Serverless Sharding Scalability React NLP Latency Optimization If you can dream it, you can do it. Load Balancing
 Virtual Machines Multi-threading Stay hungry, stay foolish. API Gateway Load Balancing Act as if what you do makes a difference. It does. Security
+Quantum Computing Pull Request Innovation distinguishes between a leader and a follower. Optimization Cloud Functions Multi-threading Load Testing Python Testing Deployment IoT Success doesn’t just find you. You have to go out and get it.
