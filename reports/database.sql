@@ -13,3 +13,4 @@ Latency Optimization Predictive Analytics Performance Simplicity is the ultimate
 Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Pull Request Quantum Computing Work hard in silence, let your success be your noise.
 Backend Load Testing JavaScript Content Delivery Network WebSockets
 React Opportunities don't happen. You create them. Great things never come from comfort zones. Scalability Load Balancing Docker API Gateway Microservices Neural Networks Deployment Content Delivery Network Kubernetes Sharding
+Sharding DNS Routing NLP Opportunities don't happen. You create them. Logging Success is how high you bounce when you hit bottom. Version Control Data Pipeline Happiness is not something ready made. It comes from your own actions. A/B Testing
