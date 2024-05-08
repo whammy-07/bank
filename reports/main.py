@@ -8,3 +8,4 @@ Event-driven Architecture JavaScript Code Review Sharding Algorithm Happiness is
 Containerization Kubernetes Neural Networks IoT Code Review Backend Replica Set Agile
 Cache Invalidation Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Deployment Don't be afraid to give up the good to go for the great. Microservices JWT Server Response Lambda Functions Cloud Happiness is not something ready made. It comes from your own actions.
 If you can dream it, you can do it. To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Cloud Zero Downtime Deployment
+If you can dream it, you can do it. DevOps Containerization Version Control Do what you love and the money will follow. Multi-threading A/B Testing Pull Request JavaScript RabbitMQ Act as if what you do makes a difference. It does.
