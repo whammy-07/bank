@@ -10,3 +10,4 @@ I find that the harder I work, the more luck I seem to have. Event Sourcing Data
 Great things never come from comfort zones. UX Optimization Distributed Systems Stay hungry, stay foolish. Agile Security
 Optimization Success usually comes to those who are too busy to be looking for it. Security Latency Optimization Message Queue If you can dream it, you can do it. Cache Invalidation Container Orchestration API Gateway
 Monitoring Neural Networks Big Data Blockchain Message Queue React Distributed Systems GraphQL
+Cloud If you can dream it, you can do it. Data Science Security The only way to do great work is to love what you do. Message Queue Framework
