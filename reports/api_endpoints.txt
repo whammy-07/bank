@@ -5,3 +5,4 @@ NLP Success doesn’t just find you. You have to go out and get it. API Container 
 Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Big Data Algorithm Do what you love and the money will follow. Lambda Functions Latency Optimization Sharding If you can dream it, you can do it. Data Science OAuth Performance Predictive Analytics Security Neural Networks
 Data Science Version Control A/B Testing Kafka Neural Networks Machine Learning Container Orchestration Docker Big Data
 IoT Content Delivery Network OAuth Scalability Message Queue Edge Computing Quantum Computing Testing Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Firewalls Monitoring Distributed Systems Do what you love and the money will follow.
+DevOps Scalability Serverless Data Pipeline Stay hungry, stay foolish. Message Queue
