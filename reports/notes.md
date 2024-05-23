@@ -9,3 +9,4 @@ Predictive Analytics Data Pipeline Optimization Deployment Work hard in silence,
 Edge Computing Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Deployment Server Response Firewalls Agile Monitoring Blockchain The only way to do great work is to love what you do. Containerization Backend Artificial Intelligence Happiness is not something ready made. It comes from your own actions.
 Great things never come from comfort zones. Cloud Functions Big Data CI/CD Pull Request
 Lambda Functions Cache Invalidation NLP Predictive Analytics Algorithm Security GraphQL React
+Automation Scalability JavaScript Virtual Machines Deployment
