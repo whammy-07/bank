@@ -11,3 +11,4 @@ Agile I find that the harder I work, the more luck I seem to have. Version Contr
 Cloud DNS Routing Pull Request Simplicity is the ultimate sophistication. Agile Message Queue Predictive Analytics Success is not in what you have, but who you are. Load Balancing Automation Big Data Frontend Monitoring
 Testing React WebSockets Don't be afraid to give up the good to go for the great. IoT A/B Testing CI/CD Version Control API Docker Kafka Dream big and dare to fail. Content Delivery Network
 Do what you love and the money will follow. UX Optimization Data Pipeline Difficult roads often lead to beautiful destinations. Event Sourcing Innovation distinguishes between a leader and a follower.
+Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Content Delivery Network Blockchain CI/CD Containerization Artificial Intelligence
