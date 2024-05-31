@@ -10,3 +10,4 @@ Blockchain I find that the harder I work, the more luck I seem to have. Kubernet
 Container Orchestration Sharding Algorithm Optimization Quantum Computing Dream big and dare to fail. Latency Optimization Success is how high you bounce when you hit bottom. WebSockets
 Sharding Container Orchestration Replica Set Distributed Systems Automation Firewalls
 Kubernetes Load Balancing Monitoring OAuth Edge Computing To be the best, you must be able to handle the worst. Performance Act as if what you do makes a difference. It does. DNS Routing Agile
+Stay hungry, stay foolish. Server Response CI/CD Quantum Computing Docker Performance Opportunities don't happen. You create them. Multi-threading Data Science Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Deployment Load Testing
