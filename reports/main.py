@@ -5,3 +5,4 @@ Deployment JWT Containerization Event-driven Architecture Latency Optimization T
 DevOps Container Orchestration Automation JavaScript Multi-threading If you can dream it, you can do it. Kafka Code Review RabbitMQ NLP Version Control Success doesn’t just find you. You have to go out and get it. Algorithm A/B Testing
 Serverless Agile NLP Dream big and dare to fail. WebSockets Distributed Systems
 Event-driven Architecture JavaScript Code Review Sharding Algorithm Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Load Testing Data Science Python Content Delivery Network Containerization Opportunities don't happen. You create them. Data Pipeline Cloud Functions
+Containerization Kubernetes Neural Networks IoT Code Review Backend Replica Set Agile
