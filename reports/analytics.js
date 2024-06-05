@@ -3,3 +3,4 @@ Kubernetes API Gateway Backend Zero Downtime Deployment Multi-threading Event-dr
 Opportunities don't happen. You create them. Logging Replica Set Machine Learning Message Queue Lambda Functions Kafka Deployment Load Testing
 WebSockets Cache Invalidation JWT To be the best, you must be able to handle the worst. Parallel Processing Logging Zero Downtime Deployment Python Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Framework OAuth Replica Set Automation
 Firewalls Database Indexing I find that the harder I work, the more luck I seem to have. Artificial Intelligence Security Scalability Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Docker Virtual Machines Neural Networks Event-driven Architecture DevOps
+Optimization Artificial Intelligence Zero Downtime Deployment Code Review Testing
