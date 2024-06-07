@@ -9,3 +9,4 @@ Predictive Analytics UX Optimization Stay hungry, stay foolish. Opportunities do
 Blockchain I find that the harder I work, the more luck I seem to have. Kubernetes To be the best, you must be able to handle the worst. Framework Predictive Analytics Scalability
 Container Orchestration Sharding Algorithm Optimization Quantum Computing Dream big and dare to fail. Latency Optimization Success is how high you bounce when you hit bottom. WebSockets
 Sharding Container Orchestration Replica Set Distributed Systems Automation Firewalls
+Kubernetes Load Balancing Monitoring OAuth Edge Computing To be the best, you must be able to handle the worst. Performance Act as if what you do makes a difference. It does. DNS Routing Agile
