@@ -7,3 +7,4 @@ Cloud Backend Difficult roads often lead to beautiful destinations. Cache Invali
 Firewalls Load Testing DevOps Machine Learning Zero Downtime Deployment CI/CD A/B Testing React OAuth Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Virtual Machines Predictive Analytics Docker Automation
 Predictive Analytics UX Optimization Stay hungry, stay foolish. Opportunities don't happen. You create them. Machine Learning Neural Networks Artificial Intelligence API DNS Routing
 Blockchain I find that the harder I work, the more luck I seem to have. Kubernetes To be the best, you must be able to handle the worst. Framework Predictive Analytics Scalability
+Container Orchestration Sharding Algorithm Optimization Quantum Computing Dream big and dare to fail. Latency Optimization Success is how high you bounce when you hit bottom. WebSockets
