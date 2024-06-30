@@ -11,3 +11,4 @@ CI/CD Artificial Intelligence JWT NLP Machine Learning Data Pipeline Event-drive
 React Kafka Framework Agile Code Review Algorithm Artificial Intelligence Message Queue Serverless Parallel Processing API
 Quantum Computing Big Data Machine Learning Multi-threading Latency Optimization Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Testing GraphQL Distributed Systems Pull Request Lambda Functions Cache Invalidation
 JavaScript I find that the harder I work, the more luck I seem to have. Pull Request Do what you love and the money will follow. Optimization Latency Optimization DNS Routing Stay hungry, stay foolish.
+Content Delivery Network Load Testing Optimization Work hard in silence, let your success be your noise. Cloud Functions Microservices Logging
