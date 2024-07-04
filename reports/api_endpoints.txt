@@ -3,3 +3,4 @@ Big Data Event-driven Architecture Blockchain Innovation distinguishes between a
 Logging Pull Request Monitoring GraphQL Blockchain Big Data CI/CD
 NLP Success doesn’t just find you. You have to go out and get it. API Container Orchestration Do what you love and the money will follow. Optimization Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it.
 Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Big Data Algorithm Do what you love and the money will follow. Lambda Functions Latency Optimization Sharding If you can dream it, you can do it. Data Science OAuth Performance Predictive Analytics Security Neural Networks
+Data Science Version Control A/B Testing Kafka Neural Networks Machine Learning Container Orchestration Docker Big Data
