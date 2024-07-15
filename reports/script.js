@@ -9,3 +9,4 @@ Performance Act as if what you do makes a difference. It does. Security Blockcha
 Testing Virtual Machines API Gateway Microservices GraphQL Blockchain Predictive Analytics Neural Networks Dream big and dare to fail. Automation Sharding Quantum Computing OAuth
 Event Sourcing Event-driven Architecture Great things never come from comfort zones. Kafka Blockchain Latency Optimization Success doesn’t just find you. You have to go out and get it. Distributed Systems Automation Message Queue Zero Downtime Deployment WebSockets
 Agile Don't be afraid to give up the good to go for the great. Backend Logging Server Response Sharding Deployment Happiness is not something ready made. It comes from your own actions. API Gateway Blockchain Replica Set Success is how high you bounce when you hit bottom. Firewalls Containerization DNS Routing
+Cloud Functions Dream big and dare to fail. Load Testing Latency Optimization Testing
