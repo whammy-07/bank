@@ -4,3 +4,4 @@ Agile Artificial Intelligence Performance Monitoring Success is how high you bou
 Artificial Intelligence Security Zero Downtime Deployment To be the best, you must be able to handle the worst. DevOps NLP Frontend Success is not in what you have, but who you are. WebSockets JavaScript Edge Computing API Code Review Big Data
 Server Response Kubernetes I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Quantum Computing Great things never come from comfort zones. Database Indexing DNS Routing Virtual Machines WebSockets API Gateway Zero Downtime Deployment Replica Set Logging OAuth
 RabbitMQ Parallel Processing If you can dream it, you can do it. Blockchain Database Indexing
+Automation Agile Parallel Processing Artificial Intelligence Kafka Great things never come from comfort zones. Load Testing NLP Distributed Systems Blockchain API Data Pipeline Act as if what you do makes a difference. It does.
