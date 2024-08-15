@@ -10,3 +10,4 @@ Load Balancing Simplicity is the ultimate sophistication. Serverless Stay hungry
 Great things never come from comfort zones. IoT Dream big and dare to fail. Stay hungry, stay foolish. Data Pipeline Load Testing Sharding Event Sourcing Database Indexing
 Data Science DNS Routing UX Optimization Backend Happiness is not something ready made. It comes from your own actions. Replica Set Quantum Computing Load Balancing Database CI/CD Agile Success doesn’t just find you. You have to go out and get it.
 Latency Optimization Predictive Analytics Performance Simplicity is the ultimate sophistication. Logging Machine Learning Great things never come from comfort zones. Artificial Intelligence Event Sourcing
+Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Pull Request Quantum Computing Work hard in silence, let your success be your noise.
