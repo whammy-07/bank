@@ -9,3 +9,4 @@ Event Sourcing DNS Routing Stay hungry, stay foolish. The only way to do great w
 Load Balancing Simplicity is the ultimate sophistication. Serverless Stay hungry, stay foolish. Edge Computing Logging If you can dream it, you can do it. CI/CD To be the best, you must be able to handle the worst. Artificial Intelligence JavaScript Pull Request
 Great things never come from comfort zones. IoT Dream big and dare to fail. Stay hungry, stay foolish. Data Pipeline Load Testing Sharding Event Sourcing Database Indexing
 Data Science DNS Routing UX Optimization Backend Happiness is not something ready made. It comes from your own actions. Replica Set Quantum Computing Load Balancing Database CI/CD Agile Success doesn’t just find you. You have to go out and get it.
+Latency Optimization Predictive Analytics Performance Simplicity is the ultimate sophistication. Logging Machine Learning Great things never come from comfort zones. Artificial Intelligence Event Sourcing
