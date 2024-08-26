@@ -7,3 +7,4 @@ Cloud Functions Frontend React Server Response Success usually comes to those wh
 A/B Testing Stay hungry, stay foolish. Scalability Python DevOps
 Event Sourcing DNS Routing Stay hungry, stay foolish. The only way to do great work is to love what you do. Database Quantum Computing I find that the harder I work, the more luck I seem to have. Frontend Work hard in silence, let your success be your noise.
 Load Balancing Simplicity is the ultimate sophistication. Serverless Stay hungry, stay foolish. Edge Computing Logging If you can dream it, you can do it. CI/CD To be the best, you must be able to handle the worst. Artificial Intelligence JavaScript Pull Request
+Great things never come from comfort zones. IoT Dream big and dare to fail. Stay hungry, stay foolish. Data Pipeline Load Testing Sharding Event Sourcing Database Indexing
