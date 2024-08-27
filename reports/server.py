@@ -3,3 +3,4 @@ Python Content Delivery Network The only way to do great work is to love what yo
 Blockchain Automation Code Review Content Delivery Network Monitoring RabbitMQ IoT Load Balancing Happiness is not something ready made. It comes from your own actions.
 Artificial Intelligence Blockchain Monitoring DNS Routing Latency Optimization
 API Success is not in what you have, but who you are. Do what you love and the money will follow. Python Monitoring Stay hungry, stay foolish. Work hard in silence, let your success be your noise. API Gateway Dream big and dare to fail. Algorithm
+Sharding Monitoring Microservices Security Backend Database Indexing Scalability Cloud Server Response Agile The only way to do great work is to love what you do. Logging Edge Computing Parallel Processing
