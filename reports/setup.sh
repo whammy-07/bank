@@ -2,3 +2,4 @@ Server Response Data Science Simplicity is the ultimate sophistication. UX Optim
 WebSockets DNS Routing Cloud Cloud Functions JWT DevOps
 Replica Set Kubernetes Docker Server Response Data Pipeline Dream big and dare to fail.
 Event Sourcing Data Pipeline Backend WebSockets RabbitMQ Container Orchestration JWT Happiness is not something ready made. It comes from your own actions. Sharding Serverless Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise.
+Framework Do what you love and the money will follow. Frontend Performance Predictive Analytics Latency Optimization CI/CD API Backend Event-driven Architecture Virtual Machines Cache Invalidation Data Pipeline Work hard in silence, let your success be your noise. Testing

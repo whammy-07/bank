@@ -6,3 +6,4 @@ Containerization Performance JavaScript Event Sourcing Kafka Virtual Machines CI
 Frontend UX Optimization I find that the harder I work, the more luck I seem to have. Automation Server Response Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish.
 Database Indexing Sharding Automation Scalability Act as if what you do makes a difference. It does. Version Control GraphQL Server Response Event-driven Architecture Difficult roads often lead to beautiful destinations. API Gateway Predictive Analytics Success is not in what you have, but who you are. Great things never come from comfort zones.
 Performance Act as if what you do makes a difference. It does. Security Blockchain Container Orchestration Cache Invalidation Scalability
+Testing Virtual Machines API Gateway Microservices GraphQL Blockchain Predictive Analytics Neural Networks Dream big and dare to fail. Automation Sharding Quantum Computing OAuth
