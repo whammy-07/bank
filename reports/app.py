@@ -8,3 +8,4 @@ Work hard in silence, let your success be your noise. Firewalls Backend Testing 
 Multi-threading Backend Container Orchestration Parallel Processing JWT
 Distributed Systems Performance Success usually comes to those who are too busy to be looking for it. Framework Optimization Replica Set DNS Routing Blockchain React WebSockets Success is how high you bounce when you hit bottom. Algorithm Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Content Delivery Network
 CI/CD Artificial Intelligence JWT NLP Machine Learning Data Pipeline Event-driven Architecture Quantum Computing
+React Kafka Framework Agile Code Review Algorithm Artificial Intelligence Message Queue Serverless Parallel Processing API
