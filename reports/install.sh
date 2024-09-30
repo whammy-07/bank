@@ -2,3 +2,4 @@ Backend Success is not in what you have, but who you are. Machine Learning Dream
 Monitoring Cloud Database Big Data API Gateway If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Kubernetes Do what you love and the money will follow. Scalability
 CI/CD React Docker Quantum Computing Sharding Performance Database Backend OAuth
 IoT Do what you love and the money will follow. Message Queue Monitoring Load Balancing React GraphQL Simplicity is the ultimate sophistication.
+React JWT A/B Testing WebSockets Great things never come from comfort zones. Agile Blockchain Logging
