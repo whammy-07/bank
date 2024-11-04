@@ -4,3 +4,4 @@ To be the best, you must be able to handle the worst. Act as if what you do make
 If you can dream it, you can do it. DNS Routing Automation Replica Set Success doesn’t just find you. You have to go out and get it. Load Balancing Microservices A/B Testing GraphQL Sharding Backend Cache Invalidation
 Scalability Kubernetes Opportunities don't happen. You create them. JWT To be the best, you must be able to handle the worst. RabbitMQ
 Quantum Computing Kafka Innovation distinguishes between a leader and a follower. Version Control Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Code Review Latency Optimization React Message Queue
+Work hard in silence, let your success be your noise. Firewalls Backend Testing Code Review If you can dream it, you can do it. UX Optimization Edge Computing React
