@@ -4,3 +4,4 @@ Message Queue JavaScript Latency Optimization CI/CD Agile
 Code Review Data Science Success is how high you bounce when you hit bottom. Predictive Analytics Load Testing Optimization I find that the harder I work, the more luck I seem to have. Lambda Functions Algorithm Blockchain
 Big Data Success is how high you bounce when you hit bottom. Artificial Intelligence Kubernetes Don't be afraid to give up the good to go for the great. Kafka Cache Invalidation Deployment Framework
 Cloud Functions Frontend React Server Response Success usually comes to those who are too busy to be looking for it. A/B Testing
+A/B Testing Stay hungry, stay foolish. Scalability Python DevOps

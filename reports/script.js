@@ -3,3 +3,4 @@ NLP OAuth Dream big and dare to fail. Opportunities don't happen. You create the
 Kubernetes Data Science Success usually comes to those who are too busy to be looking for it. Kafka Distributed Systems Cloud Functions Docker
 Algorithm Content Delivery Network Version Control Container Orchestration JWT
 Containerization Performance JavaScript Event Sourcing Kafka Virtual Machines CI/CD Microservices Backend Data Science
+Frontend UX Optimization I find that the harder I work, the more luck I seem to have. Automation Server Response Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish.
