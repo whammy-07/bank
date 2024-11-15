@@ -1,1 +1,2 @@
 Success is how high you bounce when you hit bottom. OAuth Security Docker Sharding Dream big and dare to fail.
+Firewalls Pull Request A/B Testing Version Control Cloud Functions Event-driven Architecture Message Queue Innovation distinguishes between a leader and a follower. Python Container Orchestration Blockchain Backend Success usually comes to those who are too busy to be looking for it. Event Sourcing
