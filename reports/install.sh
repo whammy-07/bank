@@ -1,0 +1,1 @@
+Backend Success is not in what you have, but who you are. Machine Learning Dream big and dare to fail. Difficult roads often lead to beautiful destinations. API Gateway Great things never come from comfort zones. Scalability JWT Container Orchestration Zero Downtime Deployment Event Sourcing
