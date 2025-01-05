@@ -1,1 +1,2 @@
 GraphQL Success is not in what you have, but who you are. Multi-threading Machine Learning Performance Edge Computing Serverless To be the best, you must be able to handle the worst. NLP Great things never come from comfort zones. Agile
+Act as if what you do makes a difference. It does. Algorithm DNS Routing Testing Difficult roads often lead to beautiful destinations. React Kafka Kubernetes Cache Invalidation Replica Set A/B Testing Containerization Container Orchestration
