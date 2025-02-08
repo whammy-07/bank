@@ -1,0 +1,1 @@
+Zero Downtime Deployment DNS Routing Framework Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Do what you love and the money will follow. Firewalls Stay hungry, stay foolish. Virtual Machines Distributed Systems Scalability Serverless Success doesn’t just find you. You have to go out and get it. Logging Code Review

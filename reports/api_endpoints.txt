@@ -1,0 +1,1 @@
+Framework Event Sourcing Cache Invalidation Zero Downtime Deployment Stay hungry, stay foolish. Database
